@@ -1,4 +1,4 @@
-.controls-bar button {
+button {
     border-style: none;
     cursor: pointer;
     color: white;
@@ -27,4 +27,5 @@
     display: flex;
     align-items: center;
     gap: 10px;
+
 }
