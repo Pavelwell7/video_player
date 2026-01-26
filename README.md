@@ -19,8 +19,9 @@
 
 ## Запуск проекта
 
-- Сайт с прототипом видеоплеера можно посмотреть ссылке [video_player](https://pavelwell7.github.io/video_player/).
-- Скопировать репозиторий и открыть файл `index.html` в любом браузере.
+- Сайт с прототипом видеоплеера можно посмотреть по ссылке [video_player](https://pavelwell7.github.io/video_player/).
+- Скопировать репозиторий video_player и открыть файл `index.html` в любом браузере.
+
 
 
 
