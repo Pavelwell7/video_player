@@ -2,7 +2,7 @@
 
 Проект кастомного видеоплеера на HTML, CSS и JavaScript.
 
-![video_player](https://github.com/user-attachments/assets/f2512855-3278-4502-af0d-f83b0f873305)
+![video_player](https://github.com/user-attachments/assets/3f70a18c-a0e0-4338-83b7-e471f1d37559)
 
 ## Возможности и структура
 
